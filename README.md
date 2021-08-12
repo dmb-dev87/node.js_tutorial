@@ -1,6 +1,6 @@
 # node.js-tutorial
 
-### Build RESTful APIs Using ASP.NET Core and Entity Framework Core
+### Create CRUD APIs in NodeJS, Express and MySQL
 
 - Project
 
