@@ -31,3 +31,13 @@
 - Tutorial URL
 
   https://medium.com/@rahulguptalive/how-to-build-simple-restful-crud-api-with-nodejs-expressjs-and-mongodb-2d25a0e27937
+
+### Build an Authentication API with JWT Token in Node.js
+
+- Project
+
+  jwt-project
+  
+- Tutorial URL
+
+  https://www.section.io/engineering-education/how-to-build-authentication-api-with-jwt-token-in-nodejs/  
