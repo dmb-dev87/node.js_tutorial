@@ -41,3 +41,13 @@
 - Tutorial URL
 
   https://www.section.io/engineering-education/how-to-build-authentication-api-with-jwt-token-in-nodejs/  
+
+### Generate random NFTs with Node.js
+
+- Project
+
+  nft-generation
+
+- Tutorial URL
+
+  https://jcmacur.medium.com/generate-random-nfts-with-node-js-sourcecode-b93a2ab411fe

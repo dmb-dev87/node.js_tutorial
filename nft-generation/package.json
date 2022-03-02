@@ -1,0 +1,17 @@
+{
+  "name": "nft-generation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pinata/sdk": "^1.1.23",
+    "dotenv": "^16.0.0",
+    "fs": "^0.0.1-security",
+    "jimp": "^0.16.1"
+  }
+}
